@@ -2,7 +2,7 @@
 
 ## I found myself doing the same thing over and over for the simple game dev projects with Javascript, so I figured I'd make a template for myself.
 
-### Webpack is configured to watch for changes and build a new main js automatically, just run
+### Webpack is configured to watch for changes and build a new bundle automatically, just run
 npm run build
 
 !!! IMPORTANT !!!
