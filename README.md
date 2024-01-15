@@ -4,3 +4,7 @@
 
 ### Webpack is configured to watch for changes and build a new main js automatically, just run
 npm run build
+
+!!! IMPORTANT !!!
+
+Images/styling has to imported into the Javascript modules to be bundled correctly in dist
